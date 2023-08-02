@@ -1,8 +1,5 @@
 <h1>Seminar</h1> 
-
 <br>2023 02월 부터 진행한 Deep learing 관련 세미나와 프로젝트를 올릴 예정<br>
-
-<h2>seminar ppt</h2>
 <br>1.전반적인 머신러닝 모델 23.02><br>
 <br>2.seq to seq 23.03<br>
 <br>3.attention is all you need 23.03<br>
