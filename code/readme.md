@@ -13,6 +13,7 @@
   <img src= https://github.com/now1256/Seminar/assets/94968792/c09e18b1-4a4e-49f4-af1b-309202ef1ca7 height="122px" width="242px">
 </p>
 <br>
+
 2.DCgan
 <br>
 <p align="center">
@@ -20,6 +21,7 @@
   <img src= https://github.com/now1256/Seminar/assets/94968792/33265f20-27ea-48e0-b5d6-80faf45de978 height="122px" width="242px">
 </p>
 <br>
+
 3.Cgan
 <p align="center">
   <img src = https://github.com/now1256/Seminar/assets/94968792/9fe36e57-cfe8-476e-9fec-016ae0681537 height="122px" width="242px">
