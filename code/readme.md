@@ -15,7 +15,7 @@
 
 2. CGgan
 <div>
-<p>
+<p align="center">
   <img src= https://github.com/now1256/Seminar/assets/94968792/03304032-d367-4ef6-b86a-7c9deccbbb58>
   <img src= https://github.com/now1256/Seminar/assets/94968792/33265f20-27ea-48e0-b5d6-80faf45de978>
 </p>
