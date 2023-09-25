@@ -12,6 +12,6 @@
 
 
 <h1>Lab project</h1>
-<br>nerual collaborative filltering을 통해 학생 기업 추천 구현 23.05~23.06<br>
+<br>nerual collaborative filltering을 통해 학생 기업 추천 구현 23.05~23.06 / 23.09~<br>
 <br> recommend system youtube를 통해 기업 - 과목 추천 규현 23.09 ~ <br>
 <br>cnn 피부 진단 구현 23.08~ 23.09<br>
