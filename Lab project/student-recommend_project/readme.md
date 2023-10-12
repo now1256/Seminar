@@ -7,4 +7,4 @@
 <h2>Update</h2>
 <li> 2023.09.25 </li>
 <h2>version</h2>
-torch 1.7.1 + cu110 
+torch 1.7.1 + cu110 , tensorflow 2.10.0
