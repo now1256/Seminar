@@ -6,3 +6,5 @@
 <li> https://github.com/doheelab/NCF </li>
 <h2>Update</h2>
 <li> 2023.09.25 </li>
+<h2>version</h2>
+torch 1.7.1 + cu110 
