@@ -12,4 +12,4 @@ python=3.7, torch == 1.7.1 + cu110
 
 | | Accuracy |
 |--|--|
-| test | 0.83 
+| test | 0.95 
