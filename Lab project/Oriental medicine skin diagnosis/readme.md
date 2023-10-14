@@ -3,8 +3,7 @@
 <h2>Data</h2>
 <li> 한방의료 내부데이터 </li>
 <h2>reference</h2> 
-<li> https://arxiv.org/pdf/1708.05031.pdf?source=post_page </li>
-<li> https://github.com/doheelab/NCF </li>
+<li> https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9451544 </li>
 <h2>Update</h2>
 <li> 2023.08 </li>
 <h2>version</h2>
