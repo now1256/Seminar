@@ -1,4 +1,5 @@
 <h1>NCF를 이용한 학생-기업 과목 추천</h1>
+<img src = https://github.com/now1256/Seminar/assets/94968792/c1120a59-71a6-4c6b-961d-007d0280283b>
 <h2>Data</h2>
 <li> 강원대학교 내부 학생 수강 데이터 </li>
 <h2>reference</h2> 
