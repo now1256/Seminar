@@ -10,7 +10,6 @@
 python=3.7, torch == 1.7.1 + cu110 
 <h2>Result</h2>
 
-
 | | Test RMSE |
 |--|--|
 | Ours | 0.968 |
