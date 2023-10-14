@@ -7,4 +7,9 @@
 <h2>Update</h2>
 <li> 2023.09.25 </li>
 <h2>version</h2>
-torch 1.7.1 + cu110 , tensorflow 2.10.0
+python=3.7, torch == 1.7.1 + cu110 
+<h2>Result</h2>
+| | Test RMSE |
+|:--|--:|
+| Ours | 0.968 |
+| Original | 0.910 |
