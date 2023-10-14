@@ -10,7 +10,8 @@
 python=3.7, torch == 1.7.1 + cu110 
 <h2>Result</h2>
 
-| | Test RMSE |
-|--|--|
-| Ours | 0.968 |
-| Original | 0.910 |
+| | Hit-ratio |Prcision|Recall
+|--|--|--|--|
+| 10 | 0.968 |||
+| 50 | 0.910 ||||
+| 100 | 0.910 ||||
