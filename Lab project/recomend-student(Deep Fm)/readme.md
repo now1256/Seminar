@@ -11,7 +11,7 @@
 python=3.9, torch == 1.12.1 + cu11.6
 <h2>Result</h2>
 
-| Prcision|Recall
+| |Prcision|Recall|
 |--|--|--|
 | 10  |0.09|0.05|
 | 25  |0.09|0.11|
