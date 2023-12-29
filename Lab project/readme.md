@@ -16,4 +16,7 @@
 <h2>Oriental medicine skin diagnosis_project</h2>
 <l1>cnn - 한방 피부 진단 </l1>
 
+<h2> coffee blending </h2>
+<li>Mlp를 활용한 커피 블렌딩 최적 온도 </li>
+
 
