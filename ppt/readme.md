@@ -11,4 +11,6 @@ recommend system : matrix factorization과 mf를 이용한 딥러닝 추천 syst
 
 BERT 임베딩 추천시스템 : Neural collaboratibe filltering 과 bert 임베딩을 합친 추천시스템
 
+youtube recommneder system : youtube에서 사용한 추천 딥러닝 알고리즘 리뷰 
+
 GAN 구현 : generative adversarial nets의 구현과 CGNAM, DCGAN을 MNIST데이터로 구현해봄 
