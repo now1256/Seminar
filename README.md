@@ -8,7 +8,7 @@
 <br>6.GAN(generative adversarial net)23.07<br>
 <br>7.CGAN 23.08 <br>
 <br>8.DCGAN 23.08 <br>
-<br>9.Deep FM 23.09 <br>
+<br>9.Deep FM 23.10 <br>
 
 
 <h1>Lab project</h1>
