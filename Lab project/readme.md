@@ -3,6 +3,7 @@
 <li>ncf - 학생-기업 과목 추천</li>
 <li>Deep Fm - 학생-기업 과목 추천</li>
 <h2>result</h2>
+
 | | Ncf |Wide&Deep|Deep FM|xDeep FM|
 |--|--|--|--|--|
 |  |precision/recall |precision/recall|precision/recall|precision/recall|
