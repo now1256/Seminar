@@ -12,7 +12,10 @@
 
 
 <h1>Lab project</h1>
-<br>nerual collaborative filltering을 통해 학생 기업 추천 구현 23.05~23.06 / 23.09~<br>
-<br> recommend system youtube를 통해 기업 - 과목 추천 규현 23.09 ~ <br>
+<br>nerual collaborative filltering을 통해 학생 기업 추천 구현 23.05~23.06 / 23.09~ 23.10<br>
+<br> recommend system youtube를 통해 기업 - 과목 추천 규현 23.09 ~ 23.10 <br>
+<br> Wide&Deep을 통해 기업 - 과목 추천 규현 23.10 ~ 23.11 <br>
+<br> Deep Fm, xDeep Fm을 통해 기업 - 과목 추천 규현 23.11 ~ 23.12 <br>
 <br>cnn 피부 진단 구현 23.08~ 23.09<br>
-<br>한방 당뇨 multi-classification,추천 23.10~ <br> 
+<br>한방 당뇨 multi-classification,치료 음식 추천 23.10~ 23.11 <br> 
+
