@@ -1,5 +1,5 @@
 <h1>DCNv2를 이용한 학생-기업 과목 추천</h1>
-<img src = https://github.com/now1256/Seminar/assets/94968792/bc41fc2c-f7f2-4af9-bdf1-6554faf2de45 width=80% height=auto>
+<img src = https://github.com/now1256/Seminar/assets/94968792/1a2aefac-8842-4c69-a323-93346be0a96f width=80% height=auto>
 <h2>Data</h2>
 <li> 강원대학교 내부 학생 수강 데이터 </li>
 <h2>reference</h2> 
