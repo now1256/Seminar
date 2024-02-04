@@ -1,7 +1,11 @@
 <h1>Lab project</h1>
 <h2>recommend-student </h2>
 <li>ncf - 학생-기업 과목 추천</li>
-<li>Deep Fm - 학생-기업 과목 추천</li>
+<li>Deep FM - 학생-기업 과목 추천</li>
+<li>xDeep FM - 학생-기업 과목 추천</li>
+<li>DCNv2 - 학생-기업 과목 추천</li>
+<li>AFN+ - 학생-기업 과목 추천</li>
+<li>EulerNet - 학생-기업 과목 추천</li>
 <h2>result</h2>
 
 | | Ncf |Wide&Deep|Deep FM|xDeep FM|
