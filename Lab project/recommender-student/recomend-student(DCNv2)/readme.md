@@ -4,7 +4,7 @@
 <li> 강원대학교 내부 학생 수강 데이터 </li>
 <h2>reference</h2> 
 <li> https://arxiv.org/pdf/2008.13535.pdf </li>
-</li>https://velog.io/@jinseock95/%EB%85%BC%EB%AC%B8DCN-V2-Improved-Deep-Cross-Network-and-Practical-Lessons-for-Web-scale-Learning-to-Rank-Systems2020-Ruoxi-Wang</li>
+<li>https://velog.io/@jinseock95/%EB%85%BC%EB%AC%B8DCN-V2-Improved-Deep-Cross-Network-and-Practical-Lessons-for-Web-scale-Learning-to-Rank-Systems2020-Ruoxi-Wang</li>
 <h2>Update</h2>
 <li> 2024.02.05 </li>
 <h2>version</h2>
