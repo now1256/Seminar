@@ -1,5 +1,5 @@
 <h1>EulerNet를 이용한 학생-기업 과목 추천</h1>
-<img src = https://github.com/now1256/Seminar/assets/94968792/d206f571-2bb8-40cd-b4ce-3abb5adc21ff width=80% height=auto>
+<img src = https://github.com/now1256/Seminar/assets/94968792/d206f571-2bb8-40cd-b4ce-3abb5adc21ff width=70% height=auto>
 <h2>Data</h2>
 <li> 강원대학교 내부 학생 수강 데이터 </li>
 <h2>reference</h2> 
