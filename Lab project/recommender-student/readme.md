@@ -58,7 +58,7 @@ python=3.9, torch == 1.12.1 + cu11.6
 | 100 |0.084|0.463|0.213|
 
 <h1>DCNv2를 이용한 학생-기업 과목 추천</h1>
-<img src = https://github.com/now1256/Seminar/assets/94968792/1a2aefac-8842-4c69-a323-93346be0a96f width=80% height=auto>
+<img src = https://github.com/now1256/Seminar/assets/94968792/1a2aefac-8842-4c69-a323-93346be0a96f width=60% height=auto>
 <h2>Data</h2>
 <li> 강원대학교 내부 학생 수강 데이터 </li>
 <h2>reference</h2> 
@@ -78,7 +78,7 @@ python=3.9, torch == 1.12.1 + cu113
 | 100| 0.089 |0.475|0.218|
 
 <h1>AFN+를 이용한 학생-기업 과목 추천</h1>
-<img src = https://github.com/now1256/Seminar/assets/94968792/574c934f-5d4a-4438-99ca-a4a2c3ee6a99 width=80% height=auto>
+<img src = https://github.com/now1256/Seminar/assets/94968792/574c934f-5d4a-4438-99ca-a4a2c3ee6a99 width=60% height=auto>
 <h2>Data</h2>
 <li> 강원대학교 내부 학생 수강 데이터 </li>
 <h2>reference</h2> 
@@ -97,7 +97,7 @@ python=3.9, torch == 1.12.1 + cu113
 | 100| 0.085 |0.478|0.221|
 
 <h1>EulerNet를 이용한 학생-기업 과목 추천</h1>
-<img src = https://github.com/now1256/Seminar/assets/94968792/d206f571-2bb8-40cd-b4ce-3abb5adc21ff width=70% height=auto>
+<img src = https://github.com/now1256/Seminar/assets/94968792/d206f571-2bb8-40cd-b4ce-3abb5adc21ff width=60% height=auto>
 <h2>Data</h2>
 <li> 강원대학교 내부 학생 수강 데이터 </li>
 <h2>reference</h2> 
