@@ -1,5 +1,5 @@
 <h1>xDeep FM를 이용한 학생-기업 과목 추천</h1>
-<img src = https://github.com/now1256/Seminar/assets/94968792/dfdcb4bb-7d0a-44d2-a041-200583656365 width=60% height=auto>
+<img src = https://github.com/now1256/Seminar/assets/94968792/881a8c1a-4eda-4c80-ace5-461d5a889cb5 width=60% height=auto>
 <h2>Data</h2>
 <li> 강원대학교 내부 학생 수강 데이터 </li>
 <h2>reference</h2> 
