@@ -8,9 +8,9 @@
 <li>EulerNet - 학생-기업 과목 추천</li>
 <h2>result</h2>
 
-| | Ncf |Wide&Deep|Deep FM|xDeep FM|
-|--|--|--|--|--|
-|  |precision/recall |precision/recall|precision/recall|precision/recall|
+| | Ncf |Wide&Deep|Deep FM|xDeep FM|DCNv2|AFN+|EulerNet|
+|--|--|--|--|--|--|--|--|
+|  |precision/recall |precision/recall|precision/recall|precision/recall|precision/recall|precision/recall|
 | 10 | 0.10/0.25 |0.06/0.00|0.09/0.53|0.15/0.06|
 | 25 | 0.09/0.52 |0.07/0.00|0.09/0.11|0.12/0.12|
 | 50 | 0.08/0.08 |0.06/0.00|0.08/0.18|0.10/0.20|
