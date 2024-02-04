@@ -1,5 +1,5 @@
 <h1>Lab project</h1>
-<h2>recommend-student </h2>
+<h2>recommender-student </h2>
 <li>ncf - 학생-기업 과목 추천</li>
 <li>Deep FM - 학생-기업 과목 추천</li>
 <li>xDeep FM - 학생-기업 과목 추천</li>
