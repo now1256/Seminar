@@ -12,6 +12,10 @@
 
 
 <h1>Lab project</h1>
+<br>춘천 데이터 공모전 최우수상 <br>
+<br>AI를 활용한 음성 대회 주문 서비스 구현 <br>
+<br>yolov5를 통한 저조도 객체 감지 모델 구현<br>
+<br>Course Recommendation System for Company Job Placement Using Collaborative Filtering and Hybrid Model DATA conference 제출 <br>
 <br>nerual collaborative filltering을 통해 학생 기업 추천 구현 23.05~23.06 / 23.09~ 23.10<br>
 <br> recommend system youtube를 통해 기업 - 과목 추천 규현 23.09 ~ 23.10 <br>
 <br> Wide&Deep을 통해 기업 - 과목 추천 규현 23.10 ~ 23.11 <br>
