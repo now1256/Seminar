@@ -1,3 +1,13 @@
+<h2>result</h2>
+| | Ncf |Deep FM|xDeep FM|DCNv2|AFN+|EulerNet|
+|--|--|--|--|--|--|--|
+|  |precision/recall |precision/recall|precision/recall|precision/recall|precision/recall|precision/recall|precision/recall|
+| 10 | 0.10/0.25 |0.09/0.53|0.15/0.06|
+| 25 | 0.09/0.52 |0.09/0.11|0.12/0.12|
+| 50 | 0.08/0.08 |0.08/0.18|0.10/0.20|
+| 100| 0.06/0.13 |0.06/0.27|0.07/0.30|
+
+
 <h1>NCF를 이용한 학생-기업 과목 추천</h1>
 <img src = https://github.com/now1256/Seminar/assets/94968792/5c3d7681-baba-4892-a02d-7f597951c755 width=80% height=auto>
 <h2>Data</h2>
