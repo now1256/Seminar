@@ -12,10 +12,10 @@
 
 
 <h1>Lab project</h1>
-<br><br>
+<br> 제12회 범정부 범정부 공공데이터 활용 창업경진대회 참가(예선통과) 24.06 ~ 24.09 </br>
 <br> 2024 춘천시 공공데이터 활용 아이디어 공모전 최우수상 24.04 ~ 24.06 <br>
-<br> AI를 활용한 음성 대회 주문 서비스 구현 <br>
-<br> yolov5를 통한 CCTV 저조도 객체 감지 모델 구현 24.02 ~ 24.03 <br>
+<br> AI를 활용한 음성 대회 주문 서비스 구현 24.03 ~ 24.06 </br> 
+<br> yolov5를 통한 CCTV 저조도 객체 감지 모델 구현 24.02 ~ 24.03 </br>
 <br> DATA conference(학술대회, oral session) / Course Recommendation System for Company Job Placement Using Collaborative Filtering and Hybrid Model 논문 개제(1저자) 23.12 ~ 24.07 <br>
 <br> 한국정보과학회(학술대회, poster session) / Nerual collaborative filltering을 통한 학생 기업 추천 시스템 논문 개제(1저자) 23.05 ~ 23.11 </br>
 <br> 머신러닝 및 딥러닝 알고리즘을 통한 학생 기업 추천 시스템 구현 23.05 ~ 23.11 </br>
