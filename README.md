@@ -19,8 +19,8 @@
 <br> DATA conference(학술대회, oral session) / Course Recommendation System for Company Job Placement Using Collaborative Filtering and Hybrid Model 논문 개제(1저자) 23.12 ~ 24.07 <br>
 <br> 한국정보과학회(학술대회, poster session) / Nerual collaborative filltering을 통한 학생 기업 추천 시스템 논문 개제(1저자) 23.05 ~ 23.11 </br>
 <br> 머신러닝 및 딥러닝 알고리즘을 통한 학생 기업 추천 시스템 구현 23.05 ~ 23.11 </br>
-<br> cnn 피부 진단 구현 23.08~ 23.09 </br>
-<br> 한방 당뇨 multi-classification,치료 음식 추천 23.10~ 23.11 </br> 
+<br> 한방 당뇨 multi-classification, 치료 음식 추천 알고리즘 구현 23.10~ 23.11 </br> 
+<br> cnn 한방 건선 피부 진단 구현 23.08~ 23.09 </br>
 <br> 경영컨설팅연구(KCI) / 인공지능 알고리즘을 통한 스마트팜 경영혁신: 토마토 초장 환경결정요인 예측 모형 개제(공동저자) /23.05 ~ 23.06 </br>
 <br> 한국 경영컨설팅 학회 (학술대회) 대상 / 인공지능 알고리즘을 통한 스마트팜 경영혁신  23.02 ~ 23.05 </br>
 
