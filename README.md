@@ -13,14 +13,14 @@
 
 <h1>Lab project</h1>
 <br><br>
-<br> 2024 춘천시 공공데이터 활용 아이디어 공모전 최우수상 <br> 24.04 ~ 24.06
+<br> 2024 춘천시 공공데이터 활용 아이디어 공모전 최우수상 24.04 ~ 24.06 <br>
 <br> AI를 활용한 음성 대회 주문 서비스 구현 <br>
-<br> yolov5를 통한 CCTV 저조도 객체 감지 모델 구현 <br> 24.02 ~ 24.03 
-<br> DATA conference(학술대회) / Course Recommendation System 논문 개제 23.12 ~ 24.07 <br>
-<br> Nerual collaborative filltering을 통한 학생 기업 추천 시스템 구현 23.05 ~ 23.10<br>
-<br> recommend system youtube를 통해 기업 - 과목 추천 규현 23.09 ~ 23.10 <br>
-<br> Wide&Deep을 통해 기업 - 과목 추천 규현 23.10 ~ 23.11 <br>
-<br> Deep Fm, xDeep Fm을 통해 기업 - 과목 추천 규현 23.11 ~ 23.12 <br>
-<br>cnn 피부 진단 구현 23.08~ 23.09<br>
-<br>한방 당뇨 multi-classification,치료 음식 추천 23.10~ 23.11 <br> 
+<br> yolov5를 통한 CCTV 저조도 객체 감지 모델 구현 24.02 ~ 24.03 <br>
+<br> DATA conference(학술대회, oral session) / Course Recommendation System for Company Job Placement Using Collaborative Filtering and Hybrid Model 논문 개제(1저자) 23.12 ~ 24.07 <br>
+<br> 한국정보과학회(학술대회, poster session) / Nerual collaborative filltering을 통한 학생 기업 추천 시스템 논문 개제(1저자) 23.05 ~ 23.11 </br>
+<br> 머신러닝 및 딥러닝 알고리즘을 통한 학생 기업 추천 시스템 구현 23.05 ~ 23.11 </br>
+<br> cnn 피부 진단 구현 23.08~ 23.09 </br>
+<br> 한방 당뇨 multi-classification,치료 음식 추천 23.10~ 23.11 </br> 
+<br> 경영컨설팅연구(KCI) / 인공지능 알고리즘을 통한 스마트팜 경영혁신: 토마토 초장 환경결정요인 예측 모형 개제(공동저자) /23.05 ~ 23.06 </br>
+<br> 한국 경영컨설팅 학회 (학술대회) 대상 / 인공지능 알고리즘을 통한 스마트팜 경영혁신  23.02 ~ 23.05 </br>
 
