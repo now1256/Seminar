@@ -12,8 +12,10 @@
 
 
 <h1> Project</h1>
+<br> ACE 창업 아이디어 육성프로그램 (최우수상) 24.09 ~ 24.10 </br>
 <br> 제12회 범정부 범정부 공공데이터 활용 창업경진대회 참가(예선통과) 24.06 ~ 24.09 </br>
-<br> 2024 춘천시 공공데이터 활용 아이디어 공모전 최우수상 24.04 ~ 24.06 <br>
+<br> 2024 경정데이터 분석 대회 (8등 /24) 24.07 ~ 24.08 </br>
+<br> 2024 춘천시 공공데이터 활용 아이디어 공모전 (최우수상_) 24.04 ~ 24.06 <br>
 <br> AI를 활용한 음성 대회 주문 서비스 구현 24.03 ~ 24.06 </br> 
 <br> yolov5를 통한 CCTV 저조도 객체 감지 모델 구현 24.02 ~ 24.03 </br>
 <br> DATA conference(학술대회, oral session) / Course Recommendation System for Company Job Placement Using Collaborative Filtering and Hybrid Model 논문 개제(1저자) 23.12 ~ 24.07 <br>
